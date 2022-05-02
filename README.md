@@ -1,2 +1,0 @@
-# BudgetApp
-Created with CodeSandbox
